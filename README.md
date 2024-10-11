@@ -1,12 +1,10 @@
-# [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
+# [2da preentrega de Javascript]
 
-[SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
-
-For the legacy Bootstrap 3 version of this theme, you can view the [last stable release](https://github.com/StartBootstrap/startbootstrap-sb-admin-2/releases/tag/v3.3.7%2B1) of SB Admin 2 for Bootstrap 3.
+Que tal ? Esta es mi segunda entrega del curso de Javascript de Coderhouse. El proyecto consiste en una aplicacion que sirva para ingresar datos de un clista, validar los campos, y posteriormente registrarlo en una base de datos de firebase. En otro caso de uso de la aplicacion, es posible ver un listado de los que se van agregando a la db en tiempo real.
 
 ## Preview
 
-[![SB Admin 2 Preview](https://assets.startbootstrap.com/img/screenshots/themes/sb-admin-2.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![Primera captura] ]
 
 **[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
 
