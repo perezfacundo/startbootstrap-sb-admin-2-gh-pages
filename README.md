@@ -1,4 +1,4 @@
-# [2da preentrega de Javascript]
+# 2da preentrega de Javascript
 
 Que tal ? Esta es mi segunda entrega del curso de Javascript de Coderhouse. El proyecto consiste en una aplicacion que sirva para ingresar datos de un clista, validar los campos, y posteriormente registrarlo en una base de datos de firebase. En otro caso de uso de la aplicacion, es posible ver un listado de los que se van agregando a la db en tiempo real.
 
