@@ -4,7 +4,7 @@ Que tal ? Esta es mi segunda entrega del curso de Javascript de Coderhouse. El p
 
 ## Preview
 
-[![Primera captura] ]
+[Primera captura] 
 
 **[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
 
